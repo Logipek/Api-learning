@@ -1,4 +1,4 @@
-# API REST PHP
+# API REST PHP (Projet non terminée)
 
 Une API REST construite avec PHP natif en utilisant l'architecture MVC et PDO pour la gestion de base de données MySQL.
 
